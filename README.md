@@ -1,6 +1,7 @@
 # Tumbler Dynamics Simulation
 #### Jingyan Ling
 
+![demogif](https://github.com/monkalynn813/dynamics_model_tumbler/blob/master/img/314demo.gif)
 <p>The project is a dynamics simulation of block in a tumbler by applying Euler Lagrange Equation through Mathematica. The motion has been divided to 7  parts. This project shows techniques expansion from theory and ability of building physical model.   </p>
                   <p> <b>•  Trajectory 1 : </b>The block starts from blade 2 (right side blade) and sliding down form the blade. The blade was treated as varying constraint on two corner points of triangular block. The block will fall after sliding from the blade. 
                     The constraint was off when the mid bottom point of triangle pass beyond the blade inner tip by using “Whenevet” and setting left hand side of E-L to zeros.<br><b>• Trajectory 2 :</b> The block fall from the blade and hit the tumbler inner edge with a plastic impact. From animation A2, it is more obvious to see the plastic impact make the block move along the tumbler edge for a few seconds.<br>
