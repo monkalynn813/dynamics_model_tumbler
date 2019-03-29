@@ -8,4 +8,4 @@
                   <b>• Trajectory 2.5 : </b>Another corner of block impact with the tumbler. It is hard to tell from the animation that two corners of the block hit the tumbler separately. The time of those two impacts are very close (2.19386s and 2.19459s)
                   <br><b>• Trajectory 3 : </b>Take the velocity update computed from Trajectory 2.5 and set the inner edge of tumbler as a constraint on two corners of the block. The animation shows the block sliding at the bottom of the tumbler with initial velocity given from Trajectory 2.5<br>
                   <b>• Trajectory 4: </b>The block is sliding on the bottom of tumbler until it hit by the coming blade ( blade 3 in this case) as another plastic impact. The impact law was used to compute updated velocity.<br>
-                  <b>Trajectory 6: </b>Simulate the animation until the block reach the same position as the beginning of animation.</p>
+                  <b>• Trajectory 6: </b>Simulate the animation until the block reach the same position as the beginning of animation.</p>
